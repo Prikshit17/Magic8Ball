@@ -11,34 +11,34 @@ console.log('The question you asked is', userQuestion)
 
 randomNumber = Math.floor(Math.random() * 8)
 
-if (randomNumber = 0) {
+if (randomNumber == 0) {
     console.log('It is Certain')
 }
 
-else if (randomNumber = 1) {
+else if (randomNumber == 1) {
     console.log('The magic eight ball says it is decidedly so')
 }
 
-else if (randomNumber = 2) {
+else if (randomNumber == 2) {
     console.log('The magic eight ball says reply hazy try again')
 }
 
-else if (randomNumber = 3) {
+else if (randomNumber == 3) {
     console.log('The magic eight ball says cannot predict now')
 }
 
-else if (randomNumber = 4) {
+else if (randomNumber == 4) {
     console.log('The magic eight ball says do not count on it')
 }
 
-else if (randomNumber = 5) {
+else if (randomNumber == 5) {
     console.log('The magic eight ball says my sources  say no')
 }
 
-else if (randomNumber = 6) {
+else if (randomNumber == 6) {
     console.log('the magic eight ball says outlook not so good')
 }
 
-else if (randomNumber = 7) {
+else if (randomNumber == 7) {
     console.log('the magic eight ball says signs point to yes')
 }
